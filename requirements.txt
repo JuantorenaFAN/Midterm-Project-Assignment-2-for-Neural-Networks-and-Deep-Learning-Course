@@ -1,0 +1,13 @@
+torch
+torchvision
+detectron2
+fvcore
+pycocotools
+opencv-python
+numpy
+matplotlib
+tensorboard
+pillow
+tqdm
+ipykernel
+jupyter 
